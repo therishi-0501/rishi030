@@ -1,1 +1,7 @@
-gitlab
+#include<stdio.h>
+{
+printf("hii");
+print("hyloo");
+printf("hfhggjh");
+}
+
